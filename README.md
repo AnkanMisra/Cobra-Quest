@@ -1,4 +1,4 @@
-# Snake Game
+# Cobra Quest
 
 A simple Snake Game implemented using HTML, CSS, and JavaScript.
 
