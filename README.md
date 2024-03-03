@@ -21,11 +21,4 @@ This Snake Game is a classic arcade-style game where the player controls a snake
 3. Avoid collisions with the game borders and the snake's body.
 4. The game ends when the snake collides with the borders or itself.
 
-## Getting Started
 
-To run the Snake Game locally, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/snake-game.git
