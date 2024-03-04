@@ -5,12 +5,6 @@ A simple Snake Game implemented using HTML, CSS, and JavaScript.
 ## Table of Contents
 - [Overview](#overview)
 - [How to Play](#how-to-play)
-- [Getting Started](#getting-started)
-- [Game Controls](#game-controls)
-- [Game Rules](#game-rules)
-- [License](#license)
-
-## Overview
 
 This Snake Game is a classic arcade-style game where the player controls a snake to eat food and grow longer. The goal is to achieve the highest possible score without colliding with the game borders or the snake's own body.
 
